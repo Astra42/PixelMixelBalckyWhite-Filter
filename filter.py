@@ -8,7 +8,7 @@ def GetGreyPixels(stepWidth, mozeSize, stepHeight, graid, img, greyscale):
             for z in range(0, 3):
                 img[x][y][z] = int(greyscale // graid) * graid
 
-            return img
+    return img
 
 
 def GetGreyAverage(stepWidth, mozeSize, stepHeight, img):
