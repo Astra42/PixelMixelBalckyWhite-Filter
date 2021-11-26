@@ -17,3 +17,8 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/71917550/143623127-63436e49-fc93-4f2f-9890-e89755fcde36.png)
+<br>
+<b>Отладчик:</b>
+<br>
+![image](https://user-images.githubusercontent.com/71917550/143623705-f2886f99-cb38-4b29-ab8a-a50cd0783cda.png)
+
